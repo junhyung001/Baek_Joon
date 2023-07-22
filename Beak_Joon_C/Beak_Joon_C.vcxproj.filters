@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\conditional statement">
+      <UniqueIdentifier>{a793047d-8ce3-4a89-9857-3bb0cdc925a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Input_Output and four arithmetic operations">
+      <UniqueIdentifier>{929d199d-17a0-4b5d-8f8e-cc54d00e88db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\loop">
+      <UniqueIdentifier>{9511f0c9-9dde-44a1-867b-0649ba930c4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\one-dimensional array">
+      <UniqueIdentifier>{e105cbd8-1358-408d-b4d2-77c5c09fedc8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_14681.cpp">
+      <Filter>소스 파일\conditional statement</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_1330.cpp">
+      <Filter>소스 파일\conditional statement</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_2480.cpp">
+      <Filter>소스 파일\conditional statement</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_2525.cpp">
+      <Filter>소스 파일\conditional statement</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_2753.cpp">
+      <Filter>소스 파일\conditional statement</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_2884.cpp">
+      <Filter>소스 파일\conditional statement</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_9498.cpp">
+      <Filter>소스 파일\conditional statement</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_18108.cpp">
+      <Filter>소스 파일\Input_Output and four arithmetic operations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_1008.cpp">
+      <Filter>소스 파일\Input_Output and four arithmetic operations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_2588.cpp">
+      <Filter>소스 파일\Input_Output and four arithmetic operations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10171.cpp">
+      <Filter>소스 파일\Input_Output and four arithmetic operations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10172.cpp">
+      <Filter>소스 파일\Input_Output and four arithmetic operations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10430.cpp">
+      <Filter>소스 파일\Input_Output and four arithmetic operations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10869.cpp">
+      <Filter>소스 파일\Input_Output and four arithmetic operations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10926.cpp">
+      <Filter>소스 파일\Input_Output and four arithmetic operations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10998.cpp">
+      <Filter>소스 파일\Input_Output and four arithmetic operations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_11382.cpp">
+      <Filter>소스 파일\Input_Output and four arithmetic operations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_25314.cpp">
+      <Filter>소스 파일\loop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_2438.cpp">
+      <Filter>소스 파일\loop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_2439.cpp">
+      <Filter>소스 파일\loop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_2739.cpp">
+      <Filter>소스 파일\loop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_8993.cpp">
+      <Filter>소스 파일\loop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_10950.cpp">
+      <Filter>소스 파일\loop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_10951.cpp">
+      <Filter>소스 파일\loop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_10952.cpp">
+      <Filter>소스 파일\loop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_11021.cpp">
+      <Filter>소스 파일\loop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_11022.cpp">
+      <Filter>소스 파일\loop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_15552.cpp">
+      <Filter>소스 파일\loop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_25304.cpp">
+      <Filter>소스 파일\loop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\one-dimensional array\exam_10871.cpp">
+      <Filter>소스 파일\one-dimensional array</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\one-dimensional array\exam_2562.cpp">
+      <Filter>소스 파일\one-dimensional array</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\one-dimensional array\exam_10804.cpp">
+      <Filter>소스 파일\one-dimensional array</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Beak_Joon\Beak_joon\one-dimensional array\exam_10818.cpp">
+      <Filter>소스 파일\one-dimensional array</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
