@@ -19,149 +19,31 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_1330.cpp">
-      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-      </DeploymentContent>
+    <ClCompile Include="exam_1094.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
     </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_14681.cpp">
-      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-      </DeploymentContent>
+    <ClCompile Include="exam_1152.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
     </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_2480.cpp">
-      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-      </DeploymentContent>
+    <ClCompile Include="exam_1978.cpp">
+      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="exam_2442.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="exam_2444.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="exam_2525.cpp">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
     </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_2525.cpp">
-      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-      </DeploymentContent>
+    <ClCompile Include="exam_2588.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
     </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_2753.cpp">
-      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-      </DeploymentContent>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_2884.cpp">
-      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-      </DeploymentContent>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_9498.cpp">
-      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-      </DeploymentContent>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_1008.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10171.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10172.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10430.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10869.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10926.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10998.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_11382.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_18108.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_2588.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_10950.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_10951.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_10952.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_11021.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_11022.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_15552.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_2438.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_2439.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_25304.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_25314.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_2739.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_8993.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\one-dimensional array\exam_10804.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\one-dimensional array\exam_10818.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\one-dimensional array\exam_10871.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\one-dimensional array\exam_2562.cpp">
+    <ClCompile Include="exam_2839.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
     </ClCompile>

@@ -16,21 +16,6 @@
     <Filter Include="소스 파일\Tear">
       <UniqueIdentifier>{30404af0-9607-49cc-902d-60c566700edf}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Step By Step">
-      <UniqueIdentifier>{6643b33c-c368-4717-86af-c1ec886ecf75}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Step By Step\conditional statement">
-      <UniqueIdentifier>{a793047d-8ce3-4a89-9857-3bb0cdc925a3}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Step By Step\Input_Output and four arithmetic operations">
-      <UniqueIdentifier>{929d199d-17a0-4b5d-8f8e-cc54d00e88db}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Step By Step\loop">
-      <UniqueIdentifier>{9511f0c9-9dde-44a1-867b-0649ba930c4b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Step By Step\one-dimensional array">
-      <UniqueIdentifier>{e105cbd8-1358-408d-b4d2-77c5c09fedc8}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\Tear\Bronze">
       <UniqueIdentifier>{56c5ba41-bb33-4e3d-84ba-cb467a2e9c6b}</UniqueIdentifier>
     </Filter>
@@ -69,104 +54,29 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_14681.cpp">
-      <Filter>소스 파일\Step By Step\conditional statement</Filter>
+    <ClCompile Include="exam_2444.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze III</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_1330.cpp">
-      <Filter>소스 파일\Step By Step\conditional statement</Filter>
+    <ClCompile Include="exam_2442.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze III</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_2480.cpp">
-      <Filter>소스 파일\Step By Step\conditional statement</Filter>
+    <ClCompile Include="exam_1978.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze II</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_2525.cpp">
-      <Filter>소스 파일\Step By Step\conditional statement</Filter>
+    <ClCompile Include="exam_1152.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze II</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_2753.cpp">
-      <Filter>소스 파일\Step By Step\conditional statement</Filter>
+    <ClCompile Include="exam_2839.cpp">
+      <Filter>소스 파일\Tear\Silver\Silver IV</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_2884.cpp">
-      <Filter>소스 파일\Step By Step\conditional statement</Filter>
+    <ClCompile Include="exam_1094.cpp">
+      <Filter>소스 파일\Tear\Silver\Silver V</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\conditional statement\exam_9498.cpp">
-      <Filter>소스 파일\Step By Step\conditional statement</Filter>
+    <ClCompile Include="exam_2588.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze II</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_18108.cpp">
-      <Filter>소스 파일\Step By Step\Input_Output and four arithmetic operations</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_1008.cpp">
-      <Filter>소스 파일\Step By Step\Input_Output and four arithmetic operations</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_2588.cpp">
-      <Filter>소스 파일\Step By Step\Input_Output and four arithmetic operations</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10171.cpp">
-      <Filter>소스 파일\Step By Step\Input_Output and four arithmetic operations</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10172.cpp">
-      <Filter>소스 파일\Step By Step\Input_Output and four arithmetic operations</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10430.cpp">
-      <Filter>소스 파일\Step By Step\Input_Output and four arithmetic operations</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10869.cpp">
-      <Filter>소스 파일\Step By Step\Input_Output and four arithmetic operations</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10926.cpp">
-      <Filter>소스 파일\Step By Step\Input_Output and four arithmetic operations</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_10998.cpp">
-      <Filter>소스 파일\Step By Step\Input_Output and four arithmetic operations</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\Input_Output and four arithmetic operations\exam_11382.cpp">
-      <Filter>소스 파일\Step By Step\Input_Output and four arithmetic operations</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_25314.cpp">
-      <Filter>소스 파일\Step By Step\loop</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_2438.cpp">
-      <Filter>소스 파일\Step By Step\loop</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_2439.cpp">
-      <Filter>소스 파일\Step By Step\loop</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_2739.cpp">
-      <Filter>소스 파일\Step By Step\loop</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_8993.cpp">
-      <Filter>소스 파일\Step By Step\loop</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_10950.cpp">
-      <Filter>소스 파일\Step By Step\loop</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_10951.cpp">
-      <Filter>소스 파일\Step By Step\loop</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_10952.cpp">
-      <Filter>소스 파일\Step By Step\loop</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_11021.cpp">
-      <Filter>소스 파일\Step By Step\loop</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_11022.cpp">
-      <Filter>소스 파일\Step By Step\loop</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_15552.cpp">
-      <Filter>소스 파일\Step By Step\loop</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\loop\exam_25304.cpp">
-      <Filter>소스 파일\Step By Step\loop</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\one-dimensional array\exam_10871.cpp">
-      <Filter>소스 파일\Step By Step\one-dimensional array</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\one-dimensional array\exam_2562.cpp">
-      <Filter>소스 파일\Step By Step\one-dimensional array</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\one-dimensional array\exam_10804.cpp">
-      <Filter>소스 파일\Step By Step\one-dimensional array</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Beak_Joon\Beak_joon\one-dimensional array\exam_10818.cpp">
-      <Filter>소스 파일\Step By Step\one-dimensional array</Filter>
+    <ClCompile Include="exam_2525.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze III</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
