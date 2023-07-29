@@ -1,16 +1,25 @@
-#include<stdio.h>
-#include<sstream>
+#include<string>
 #include <iostream>
-#include<vector>
 using namespace std;
-vector<string> split(string str, char delimiter);
 
 
 int main() {
-	string str;
-	int result;
-	cin >> str;
-	result = split(str, ' ');
+	cin.tie(NULL);
+	ios_base::sync_with_stdio(false);
 
-	cout << 
+	string str;
+	int cnt=1;
+	getline(cin, str);
+	
+	for (int i = 0; i < str.length(); i++) {
+		if (str[i] == ' ')
+			cnt++;
+	}
+
+	if (str[0] == ' ')
+		cnt--;
+	if (str[str.length() - 1] == ' ')
+		cnt--;
+
+	cout << cnt;
 }
