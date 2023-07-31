@@ -52,6 +52,9 @@
     <Filter Include="소스 파일\Tear\Silver\Silver I">
       <UniqueIdentifier>{4b8edde5-3ddd-45ce-81aa-ccd3cbe19065}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Tear\Unrated">
+      <UniqueIdentifier>{30c7afd0-f287-4913-9680-f02f8607d9da}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="exam_2444.cpp">
@@ -109,6 +112,18 @@
       <Filter>소스 파일\Tear\Bronze\Bronze III</Filter>
     </ClCompile>
     <ClCompile Include="exam_2754.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_1237.cpp">
+      <Filter>소스 파일\Tear\Unrated</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_14918.cpp">
+      <Filter>소스 파일\Tear\Unrated</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_27866.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_10872.cpp">
       <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
     </ClCompile>
   </ItemGroup>
