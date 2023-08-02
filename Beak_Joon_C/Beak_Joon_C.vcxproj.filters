@@ -126,5 +126,17 @@
     <ClCompile Include="exam_10872.cpp">
       <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
     </ClCompile>
+    <ClCompile Include="exam_7287.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_1000.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_1001.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_2558.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
