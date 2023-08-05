@@ -201,5 +201,53 @@
     <ClCompile Include="exam_10951.cpp">
       <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
     </ClCompile>
+    <ClCompile Include="exam_11654.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_18108.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_10926.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_25304.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_10807.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_11718.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_11382.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_11942.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_1271.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_2420.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_2475.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_2743.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_5597.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_4101.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_10699.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze V</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_2675.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze II</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
