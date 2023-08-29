@@ -1,21 +1,20 @@
 #include<stdio.h>
-#include<iostream>
-#include<string>
-using namespace std;
+#include<string.h>
 
 int main() {
-	int n;
-	int cnt[9];
-	char str[1000][1000];
-	
-	cin >> n;
-	for (int i = 0; i < n; i++) {
-		cin >> cnt[i] >> str[i];
-	}
-	
-	for (int i = 0; i < n; i++) {
-		for (int j = 0; j < cnt[i]; j++)
-			cout << str[i];
-		cout << "\n";
+	int t, r;
+	char str[20];
+
+	scanf("%d", &t);
+
+	for (int i = 0; i < t; i++) {
+		scanf("%d %s", &r, &str);
+
+		for (int j = 0; j < strlen(str); j++) {
+			for (int k = 0; k < r; k++) {
+				printf("%c", str[j]);
+			}
+		}
+		printf("\n");
 	}
 }
