@@ -261,5 +261,14 @@
     <ClCompile Include="exam_11720.cpp">
       <Filter>소스 파일\Tear\Bronze\Bronze IV</Filter>
     </ClCompile>
+    <ClCompile Include="exam_10817.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze III</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_2742.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze IV</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_9316.cpp">
+      <Filter>소스 파일\Tear\Bronze\Bronze IV</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
