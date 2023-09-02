@@ -1,4 +1,2 @@
-﻿  exam_2751.cpp
-C:\Users\junhy\Desktop\Baek_Joon_C\Beak_Joon_C\exam_2751.cpp(8,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\junhy\Desktop\Baek_Joon_C\Beak_Joon_C\exam_2751.cpp(13,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  exam_2693.cpp
   Beak_Joon_C.vcxproj -> C:\Users\junhy\Desktop\Baek_Joon_C\Beak_Joon_C\x64\Debug\Beak_Joon_C.exe
